@@ -2,7 +2,7 @@
 - 🌱 I’m currently pursuing M.Sc in Robotics Engineering from University of Genoa, Italy
 - 👀 I’m interested in Artificial Intelligence & Robotics
 - 💞️ I’m looking to collaborate on Artificial Intelligence & Robotics
-- 📫 Reach me through my mail ankurkohli1997007@gmail.com
+- 📫 Reach me through my mail ankurkohli1997007@gmail.com, [LinkedIn](https://www.linkedin.com/in/ankur-kohli-7a5865157/)
 
 <!---
 ankurkohli007/ankurkohli007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
