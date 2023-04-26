@@ -3,8 +3,9 @@
 - 👀 I’m interested in **Active learning** | **Artificial Intelligence** | **Robotics** | **Machine Learning** | **Computer Vision**
 - 👨‍💻 Currently I'm working on my **Master Thesis Project** in **Artificial Intelligence & Robotics** @ [NTT Data Italia](https://it.nttdata.com/)
 - 💞️ I’m looking to collaborate in **Active Learning/Artificial Intelligence** with **Robotics**
-- 📫 Reach me through my mail ankurkohli1997007@gmail.com, [LinkedIn](https://www.linkedin.com/in/ankur-kohli-7a5865157/)
-- Research profile [ResearchGate](https://www.researchgate.net/profile/Ankur-Kohli-4)
+- [LinkedIn](https://www.linkedin.com/in/ankur-kohli-7a5865157/) Profile
+- Research Profile [ResearchGate](https://www.researchgate.net/profile/Ankur-Kohli-4)
+- 📫 [![mail][mail]][mail] Reach me through my mail ankurkohli1997007@gmail.com 
 
 <!---
 ankurkohli007/ankurkohli007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
