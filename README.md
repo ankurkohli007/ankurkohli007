@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Active learning** | **Artificial Intelligence** | **Robotics** | **Machine Learning** | **Computer Vision**
 - 👨‍💻 Currently I'm working on my **Master Thesis Project** in **Artificial Intelligence & Robotics** @ [NTT Data Italia](https://it.nttdata.com/)
 - 💞️ I’m looking to collaborate in **Active Learning/Artificial Intelligence** with **Robotics**
-- Professional Profile [LinkedIn](https://www.linkedin.com/in/ankur-kohli-7a5865157/)
+- ➡️ Professional Profile [LinkedIn](https://www.linkedin.com/in/ankur-kohli-7a5865157/)
 - Research Profile [ResearchGate](https://www.researchgate.net/profile/Ankur-Kohli-4)
 - 📫 Reach me through my mail ankurkohli1997007@gmail.com 
 
