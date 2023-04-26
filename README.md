@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate in **Active Learning/Artificial Intelligence** with **Robotics**
 - [LinkedIn](https://www.linkedin.com/in/ankur-kohli-7a5865157/) Profile
 - Research Profile [ResearchGate](https://www.researchgate.net/profile/Ankur-Kohli-4)
-- 📫 [![mail][mail]][mail]Reach me through my mail ankurkohli1997007@gmail.com 
+- 📫 <MailIcon size={16} /> Reach me through my mail ankurkohli1997007@gmail.com 
 
 <!---
 ankurkohli007/ankurkohli007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
