@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankur Kohli
-- 🌱 I’m currently pursuing [M.Sc Robotics Engineering](https://corsi.unige.it/corsi/10635) from [University of Genoa (UniGe), Italy](https://unige.it/en)
+- 🌱 Graduating in [M.Sc Robotics Engineering](https://corsi.unige.it/corsi/10635) from [University of Genoa (UniGe), Italy](https://unige.it/en)
 - 👀 I’m interested in **Active learning** | **Artificial Intelligence** | **Robotics** | **Machine Learning** | **Computer Vision**
 - 👨‍💻 Completed my **Master Thesis Project** in **Artificial Intelligence & Robotics** from [NTT Data Italia](https://it.nttdata.com/)
 - 💞️ I’m looking to collaborate in **Active Learning/Artificial Intelligence** with **Robotics**
