@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankur Kohli
 - 🌱 Graduated in [M.Sc Robotics Engineering](https://corsi.unige.it/corsi/10635) from [University of Genoa (UniGe), Italy](https://unige.it/en)
-- 👀 I’m interested in **Active learning** | **Artificial Intelligence** | **Reinforcement Learning** | **Machine Learning** | **Robotics** | **Computer Vision** 
+- 👀 I’m interested in  | **Artificial Intelligence** | **Robotics** | **Machine Learning** | **Reinforcement Learning** | **Computer Vision** | **Active learning**
 - 👨‍💻 Completed my **Master Thesis Project** in **Artificial Intelligence & Robotics**, title **Autonomous Multi-Robot Collaboration for Inspection & Asset Monitoring** from [NTT Data Italia](https://it.nttdata.com/)
 - 💞️ I’m looking to collaborate in **Active Learning/Artificial Intelligence/Reinforcement Learning/Machine Learning/Computer Vision** with **Robotics**
 - ➡️ Professional Profile [LinkedIn](https://www.linkedin.com/in/ankur-kohli-7a5865157/)
