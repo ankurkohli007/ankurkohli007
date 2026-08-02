@@ -83,7 +83,9 @@ Currently open to **full-time** (on-site/hybrid), **remote roles** and **freelan
 
 ---
 
-## GitHub Stats
+
+
+<!-- ## GitHub Stats
 
 <div align="center">
 
@@ -96,9 +98,12 @@ Currently open to **full-time** (on-site/hybrid), **remote roles** and **freelan
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ankurkohli007&theme=github-dark-blue&hide_border=true)
 
-</div>
+</div> 
 
 ---
+-->
+
+
 
 ## NTT Data Italia
 
